@@ -12,9 +12,9 @@
 
 ### Results 
 The results of the model with response to the data
-![[models.png]]
+![models image](models.png)
 
 Result of the predictions
-![[predictions.png]]
+![predictions](predictions.png)
 
 This shows that the GaussianNB model is the best for this particular dataset
